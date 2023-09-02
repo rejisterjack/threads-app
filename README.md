@@ -1,28 +1,30 @@
-# Build and Deploy a Full Stack MERN Next.js 13 Threads App | React, Next JS, TypeScript, MongoDB
-![Threads](https://i.ibb.co/2dSC0TQ/Thumbnail-1.png)
+# Threads
 
-## Next.js 13 eBook & Course
-📚 https://resource.jsmastery.pro/nextjs-guide
+![Project Hero Image](https://res.cloudinary.com/dktfpedhu/image/upload/v1693645309/threads_aab2ux.jpg)
 
-## Summary
-Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!
+[View Demo](https://threads-app-dark.vercel.app)
 
-In this video, you'll:
-- Master Next.js 13.4 with Server Side Rendering
-- Learn MongoDB handling of complex schemas, multiple data population
-- Create beautiful layouts with TailwindCSS
-- Use Clerk for authentication
-- Handle file uploads with UploadThing
-- Explore Shadcn components
-- Listen to real-time events with webhooks
-- Understand middleware, API actions, and authorization
-- Explore & integrate new Next.js layout route groups
-- Validate data with Zod
-- Manage forms with react hook form
-- Create reusable components
-- Build a solid application architecture
-- Deploy the application and more!
+## Introduction
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+
+Introducing Threads project, built with Next.js 13, Clerk for authentication, Shancn UI for sleek design, and MongoDB for data storage. Threads is a modern web application that offers a seamless and secure platform for collaborative discussions, making it easy to connect and communicate with others online.
+
+## Technologies Used
+
+<div style="background-color: #333; color: #fff; padding: 10px; margin: 5px; display: inline-block;">NestJS</div>
+<div style="background-color: #264de4; color: #fff; padding: 10px; margin: 5px; display: inline-block;">Clerk</div>
+<div style="background-color: #61dbfb; color: #fff; padding: 10px; margin: 5px; display: inline-block;">Shadcn UI</div>
+<div style="background-color: #589636; color: #fff; padding: 10px; margin: 5px; display: inline-block;">MongoDB</div>
+
+
+## Installation
+
+Here are the installation steps
+
+```shell
+# installation commands
+git clone https://github.com/rejisterjack/threads-app.git
+cd threads-app
+npm i --legacy-peer-deps
+npm run dev
+
