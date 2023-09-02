@@ -7,7 +7,7 @@
 ## Introduction
 
 
-Introducing Threads project, built with Next.js 13, Clerk for authentication, Shancn UI for sleek design, and MongoDB for data storage. Threads is a modern web application that offers a seamless and secure platform for collaborative discussions, making it easy to connect and communicate with others online.
+Introducing Threads project, built with Next.js 13.4, Clerk for authentication, Shancn UI for sleek design, and MongoDB for data storage. Threads is a modern web application that offers a seamless and secure platform for collaborative discussions, making it easy to connect and communicate with others online.
 
 ## Technologies Used
 
